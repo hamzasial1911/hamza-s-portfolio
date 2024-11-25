@@ -82,7 +82,7 @@ export default function Footer() {
             © {currentYear} Muhammad Hamza Sial. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Built with Next.js & Tailwind CSS
+           Built with heart ❤️
           </p>
         </div>
       </div>

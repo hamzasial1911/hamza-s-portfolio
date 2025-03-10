@@ -124,7 +124,7 @@ export default function Hero() {
                   <ArrowDown className="ml-2 h-4 w-4" />
                 </Button>
                 
-                <Button 
+                {/* <Button 
                   size="lg" 
                   variant="outline"
                   onClick={openResume}
@@ -132,7 +132,7 @@ export default function Hero() {
                 >
                   <FileText className="mr-2 h-4 w-4" />
                   Resume
-                </Button>
+                </Button> */}
               </motion.div>
             </motion.div>
 

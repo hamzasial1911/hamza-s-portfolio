@@ -25,12 +25,12 @@ export default function Projects() {
       demo: "https://www.thebillionairesplan.com"
     },
     {
-      title: "Task Master Pro",
-      description: "Enterprise task management system with advanced workflow automation and team collaboration features. Built with Flask and SQLAlchemy.",
+      title: "Fund Raiser",
+      description: "The platform showcases fundraising progress, highlighting the total amount raised and the number of donors involved. Donors can see the impact of their contributions through updates on various initiatives:​",
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&auto=format&fit=crop&q=60",
       tech: ["Flask", "SQLAlchemy", "Celery", "Redis", "Vue.js"],
-      github: "https://github.com/hamzasial1911/task-master-pro",
-      demo: "https://taskmaster.pro"
+      github: "https://github.com/hamzasial1911/FundRaiser",
+      demo: "https://fund-raiser-nu.vercel.app/"
     },
     {
       title: "Health Track API",
@@ -38,7 +38,7 @@ export default function Projects() {
       image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop&q=60",
       tech: ["Pyramid", "PostgreSQL", "Redis", "Docker", "AWS"],
       github: "https://github.com/hamzasial1911/health-track-api",
-      demo: "https://api.healthtrack.io"
+      demo: "https://tryterra.co/"
     }
   ]
 
